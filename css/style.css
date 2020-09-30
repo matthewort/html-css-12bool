@@ -9,6 +9,7 @@
   height: 193.1px;
   background-color: pink;
   border: solid 1px black;
+  padding: 3px 3px 3px 3px;
 }
 
 [class*="nestcol-"] {
