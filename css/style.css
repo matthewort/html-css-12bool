@@ -18,6 +18,12 @@
   border: solid 1px black;
 }
 
+.coltext {
+text-align: center;
+ vertical-align: middle;
+ line-height: 193.1px;
+}
+
 .nestcol-2 {
   height: 100%;
   width: 20%;
