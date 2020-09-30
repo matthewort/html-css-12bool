@@ -6,7 +6,13 @@
 }
 
 [class*="col-"] {
-  min-height: 100px;
-  background-color: lightgreen;
+  height: 193.1px;
+  background-color: pink;
+  border: solid 1px black;
+}
+
+.nestcol-2 {
+  height: 193.1px;
+  background-color: red;
   border: solid 1px black;
 }
