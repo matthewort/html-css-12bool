@@ -11,8 +11,15 @@
   border: solid 1px black;
 }
 
-.nestcol-2 {
+[class*="nestcol-"] {
   height: 193.1px;
-  background-color: red;
+  background-color: pink;
   border: solid 1px black;
+}
+
+.nestcol-2 {
+  height: 100%;
+  width: 20%;
+  background-color: red;
+  border: solid 1px white;
 }
