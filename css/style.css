@@ -20,6 +20,13 @@
 .nestcol-2 {
   height: 100%;
   width: 20%;
-  background-color: red;
+  background-color: rgb(199,21,133);
+  border: solid 1px white;
+}
+
+.nestcol-8 {
+  height: 100%;
+  width: 60%;
+  background-color: rgb(199,21,133);
   border: solid 1px white;
 }
